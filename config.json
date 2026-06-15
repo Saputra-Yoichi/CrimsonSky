@@ -1,6 +1,10 @@
 {
-  "baseUrl": "http://crimsonsky.miunnst.site:3000",
-  "wsUrl": "ws://crimsonsky.miunnst.site:3000",
+  "baseUrl": "http://146.190.239.252:3000",
+  "wsUrl": "ws://146.190.239.252:3000",
+  "apiUrl": "http://146.190.239.252:3000/api",
+  "version": "1.0.1",
+  "maintenance": false,
+  "maintenanceMessage": "Crimson Sky Sedang Maintenance", 
   "apiVersion": "1.0.0",
   "lastUpdated": "2026-01-14"
 }
