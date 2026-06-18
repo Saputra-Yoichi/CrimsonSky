@@ -1,7 +1,7 @@
 {
-  "baseUrl": "http://168.144.154.234:2000",
-  "wsUrl": "ws://168.144.154.234:2000",
-  "apiUrl": "http://168.144.154.234:2000/api",
+  "baseUrl": "http://168.144.78.37:2000",
+  "wsUrl": "ws://168.144.78.37:2000",
+  "apiUrl": "http://168.144.78.37:2000/api",
   "version": "1.0.1",
   "maintenance": false,
   "maintenanceMessage": "System sedang maintenance. Coba lagi nanti.",
